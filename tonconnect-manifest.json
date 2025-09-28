@@ -1,0 +1,5 @@
+{
+  "url": "https://<твой_домен_туннеля_или_ngrok>",
+  "name": "Web3 Pass (MVP)",
+  "iconUrl": "https://<твой_хост>/icon.png"
+}
